@@ -1,16 +1,45 @@
-### Hi there 👋
+# Hi! 👋
 
-<!--
-**toita86/toita86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Eduard Brahas, a Computer Science student with a deep passion for informatics and a knack for turning ideas into reality through code. 
+Welcome to my GitHub profile! 🚀
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚙️ I have a diploma in Mechanics, Mechatronics and Energy with a specialization in "Mechanics and Mechatronics"
+- 🎓 Currently pursuing a degree in Computer Science at UniPG
+- 💡 Always eager to learn and explore new technologies
+- 🌐 Enthusiastic about algorithms and problem-solving
+- 🤖 Love experimenting with machine learning and artificial intelligence
+
+## Skills
+
+- **Programming Languages:** Python, Java, C, R
+- **Web Development:** HTML, CSS, JavaScript
+- **Database:** MySQL, MongoDB, PostgreSQL
+- **Tools & Technologies:** Git, VSCode, Docker, Ollama
+
+## Currently Working on
+- Machine Learning
+- Odoo
+
+## Projects
+
+#### ML-attempts
+
+I implemented a basic perceptron from scratch without using any frameworks. This project aimed to deepen my understanding of neural networks.
+
+#### My_module
+
+My first attempt to create a odoo addon. Following the steps of the official documentation.
+
+## Learning Journey
+
+After obtaining my diploma in Mechanics, Mechatronics, and Energy, I discovered a keen interest in the world of Computer Science. Motivated by this newfound interest, I decided to make a career shift and am currently pursuing a degree in CS.
+
+## Let's get in Touch!
+
+- Email: eduardbrhas@outlook.it
+- Telegram: @Toita86
+
+Feel free to explore my repositories and don't hesitate to reach out if you have any questions, suggestions, or just want to connect. 
+Happy coding! 👨‍💻
