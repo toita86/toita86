@@ -21,16 +21,7 @@ Welcome to my GitHub profile! 🚀
 ## Currently Working on
 - Machine Learning
 - Odoo
-
-## Projects
-
-#### ML-attempts
-
-I implemented a basic perceptron from scratch without using any frameworks. This project aimed to deepen my understanding of neural networks.
-
-#### My_module
-
-My first attempt to create a odoo addon. Following the steps of the official documentation.
+- Learning Rust
 
 ## Learning Journey
 
