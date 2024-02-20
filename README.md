@@ -22,6 +22,7 @@ Welcome to my GitHub profile! 🚀
 - Machine Learning
 - Odoo
 - Learning Rust
+- Learning the internet architecture
 
 ## Learning Journey
 
