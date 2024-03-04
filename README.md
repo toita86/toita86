@@ -21,7 +21,6 @@ Welcome to my GitHub profile! 🚀
 ## Currently Working on
 - Machine Learning
 - Odoo
-- Learning Rust
 - Learning the internet architecture
 
 ## Learning Journey
