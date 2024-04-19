@@ -22,6 +22,7 @@ Welcome to my GitHub profile! 🚀
 - Machine Learning
 - Odoo
 - OpenCV
+- Cuda
 
 ## Learning Journey
 
