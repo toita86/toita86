@@ -23,6 +23,7 @@ Welcome to my GitHub profile! 🚀
 - Odoo
 - OpenCV
 - Cuda
+- rust
 
 ## Learning Journey
 
