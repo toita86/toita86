@@ -13,7 +13,7 @@ Welcome to my GitHub profile! 🚀
 
 ## Skills
 
-- **Programming Languages:** Python, Java, C, R
+- **Programming Languages:** Python, Java, C, C#, R
 - **Web Development:** HTML, CSS, JavaScript, Flask, Node
 - **Database:** MySQL, MongoDB, PostgreSQL
 - **Tools & Technologies:** Git, VSCode, Docker, Ollama
