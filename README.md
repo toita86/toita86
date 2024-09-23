@@ -6,7 +6,8 @@ Welcome to my GitHub profile! 🚀
 ## About Me
 
 - ⚙️ I have a diploma in Mechanics, Mechatronics and Energy with a specialization in "Mechanics and Mechatronics"
-- 🎓 Currently pursuing a degree in Computer Science at UniPG
+- 🎓 I have a Degree in Computer Science at UniPG
+- 👔 Currently working at Ooops404
 - 💡 Always eager to learn and explore new technologies
 - 🌐 Enthusiastic about algorithms and problem-solving
 - 🤖 Love experimenting with machine learning and artificial intelligence
@@ -21,9 +22,8 @@ Welcome to my GitHub profile! 🚀
 ## Currently Working on
 - Machine Learning
 - Odoo
-- OpenCV
 - Cuda
-- rust
+- Lambda calculus
 
 ## Learning Journey
 
