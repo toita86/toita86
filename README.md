@@ -25,7 +25,7 @@ Welcome to my GitHub profile! 🚀
 - Cuda
 - Lambda calculus
 
-[![roadmap.sh](https://roadmap.sh/card/wide/66fae9b1c45e253cb096ac66?variant=dark&roadmaps=software-architect)](https://roadmap.sh)
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66fae9b1c45e253cb096ac66?variant=dark&roadmaps=devops%2Csoftware-architect" alt="roadmap.sh"/></a>
 
 ## Learning Journey
 
