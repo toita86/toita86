@@ -25,6 +25,8 @@ Welcome to my GitHub profile! 🚀
 - Cuda
 - Lambda calculus
 
+[![roadmap.sh](https://roadmap.sh/card/wide/66fae9b1c45e253cb096ac66?variant=dark&roadmaps=software-architect)](https://roadmap.sh)
+
 ## Learning Journey
 
 After obtaining my diploma in Mechanics, Mechatronics, and Energy, I discovered a keen interest in the world of Computer Science. Motivated by this newfound interest, I decided to make a career shift and am currently pursuing a degree in CS.
