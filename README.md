@@ -1,6 +1,6 @@
 # Hi! 👋
 
-I'm Eduard Brahas, a Computer Science student with a deep passion for informatics and a knack for turning ideas into reality through code. 
+I'm Eduard Brahas, a Computer Science graduate with a deep passion for informatics and a knack for turning ideas into reality through code. 
 Welcome to my GitHub profile! 🚀
 
 ## About Me
