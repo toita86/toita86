@@ -29,7 +29,7 @@ Welcome to my GitHub profile! 🚀
 
 ## Learning Journey
 
-After obtaining my diploma in Mechanics, Mechatronics, and Energy, I discovered a keen interest in the world of Computer Science. Motivated by this newfound interest, I decided to make a career shift and am currently pursuing a degree in CS.
+After obtaining my diploma in Mechanics, Mechatronics, and Energy, I discovered a keen interest in the world of Computer Science. Motivated by this newfound interest, I decided to change career and so I did my degree in computer science. Now I am working on improving my skills as a software engineer.
 
 ## Let's get in Touch!
 
