@@ -22,7 +22,7 @@ Welcome to my GitHub profile! 🚀
 ## Currently Working on
 - Machine Learning
 - Odoo
-- Cuda
+- Frappe Framework
 - Lambda calculus
 
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66fae9b1c45e253cb096ac66?variant=dark&roadmaps=devops%2Csoftware-architect" alt="roadmap.sh"/></a>
