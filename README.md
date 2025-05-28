@@ -1,40 +1,75 @@
-# Hi! 👋
+<h1 align="center">Hey there, I’m Eduard 👋</h1>
 
-I'm Eduard Brahas, a Computer Science graduate with a deep passion for informatics and a knack for turning ideas into reality through code. 
-Welcome to my GitHub profile! 🚀
+<p align="center">
+  <em>Welcome to my digital playground!</em>
+</p>
 
-## About Me
+---
 
-- ⚙️ I have a diploma in Mechanics, Mechatronics and Energy with a specialization in "Mechanics and Mechatronics"
-- 🎓 I have a Degree in Computer Science at UniPG
-- 👔 Currently working at Ooops404
-- 💡 Always eager to learn and explore new technologies
-- 🌐 Enthusiastic about algorithms and problem-solving
-- 🤖 Love experimenting with machine learning and artificial intelligence
+## 👨‍💻 Who Am I?
 
-## Skills
+🧑‍🎓 **Computer Science Grad** from UniPG
 
-- **Programming Languages:** Python, Java, C, C#, R
-- **Web Development:** HTML, CSS, JavaScript, Flask, Node, Frappe Framework
-- **Database:** MySQL, MongoDB, PostgreSQL
-- **Tools & Technologies:** Git, VSCode, Docker, Ollama
+🔧 Former **Mechanics & Mechatronics** student (I used to build robots – now I teach them to think)
 
-## Currently Working on
-- Machine Learning
-- Odoo
-- Frappe Framework
-- SvelteKit
+💼 Working at **Ooops404**
 
-## Learning Journey
+📚 Soon-to-be **Master's student** at Aalborg University starting **September 2025** – can’t wait!
 
-After obtaining my diploma in Mechanics, Mechatronics, and Energy, I discovered a keen interest in the world of Computer Science. 
-Motivated by this newfound interest, I decided to change career and so I did my degree in computer science. 
-Now I am working on improving my skills as a software engineer and system designer.
+🧠 Addicted to algorithms, AI experiments, and saying “just one more bug fix”
 
-## Let's get in Touch!
+---
 
-- Email: eduardbrhas@outlook.it
-- Telegram: @Toita86
+## 🧰 Tech Toolbox
 
-Feel free to explore my repositories and don't hesitate to reach out if you have any questions, suggestions, or just want to connect. 
-Happy coding! 👨‍💻
+**Languages:**
+`Python` 🐍 | `Java` ☕ | `C` ⚙️ | `C#` 🔷 | `R` 📊
+
+**Web Dev:**
+`HTML` | `CSS` | `JavaScript` | `Flask` | `Node.js` | `Frappe Framework`
+
+**Databases:**
+`MySQL` | `MongoDB` | `PostgreSQL`
+
+**Tools & Gadgets:**
+`Git` | `VSCode` | `Docker` | `Ollama`
+
+---
+
+## 🛠️ What I'm Building Right Now
+
+* 🤖 Playing with **Machine Learning** & small AI side quests
+* 🧱 Developing with **Odoo** and the **Frappe Framework**
+* 🧪 Exploring **SvelteKit** – it’s weirdly fun
+
+---
+
+## 📜 My Origin Story
+
+I started in mechanics and mechatronics – think gears, wires, and hands-on stuff.
+But somewhere along the way, I fell in love with code. Fast forward:
+
+💥 Switched to Computer Science
+
+🖥️ Graduated
+
+🎓 Got into a Master’s
+
+🔥 Now I’m deep in dev life
+
+---
+
+## 📫 Reach Out!
+
+* 📧 **Email:** [eduardbrhas@outlook.it](mailto:eduardbrhas@outlook.it)
+* 💬 **Telegram:** [@Toita86](https://t.me/Toita86)
+
+---
+
+<p align="center">
+  <strong>👾 Browse around, check out some repos, and if you see something cool – let’s connect! 👾</strong>  
+</p>
+
+<p align="center">
+  <em>May your code compile on the first try 🧙‍♂️✨</em>
+</p>
