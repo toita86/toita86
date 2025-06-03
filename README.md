@@ -2,6 +2,8 @@
 
 <p align="center">
   <em>Welcome to my digital playground!</em>
+  <br/>
+  <em>❗❗Just made public my latest just for fun project checkout</em> <a href=https://github.com/toita86/smartcli>smart-cli<a/><em>❗❗</em>
 </p>
 
 ---
