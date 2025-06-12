@@ -34,7 +34,7 @@
 `MySQL` | `MongoDB` | `PostgreSQL`
 
 **Tools & Gadgets:**
-`Git` | `VSCode` | `Docker` | `Ollama`
+`Git` | `VSCode` | `Docker` | `Ollama` | `nvim(feat. nvchad)`
 
 ---
 
