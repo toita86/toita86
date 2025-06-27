@@ -57,8 +57,6 @@ But somewhere along the way, I fell in love with code. Fast forward:
 
 🎓 Got into a Master’s
 
-🔥 Now I’m deep in dev life
-
 ---
 
 ## 📫 Reach Out!
