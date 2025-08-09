@@ -14,8 +14,6 @@
 
 🔧 Former **Mechanics & Mechatronics** student (I used to build robots – now I teach them to think)
 
-💼 Working at **Ooops404**
-
 📚 Soon-to-be **Master's student** at Aalborg University starting **September 2025** – can’t wait!
 
 🧠 Addicted to algorithms, AI experiments, and saying “just one more bug fix”
@@ -28,7 +26,7 @@
 `Python` 🐍 | `Java` ☕ | `C` ⚙️ | `C#` 🔷 | `R` 📊
 
 **Web Dev:**
-`HTML` | `CSS` | `JavaScript` | `Flask` | `Node.js` | `Frappe Framework`
+`HTML` | `CSS` | `JavaScript` | `Flask` | `Node.js` | `Frappe Framework` | `Odoo`
 
 **Databases:**
 `MySQL` | `MongoDB` | `PostgreSQL`
@@ -41,7 +39,7 @@
 ## 🛠️ What I'm Building Right Now
 
 * 🤖 Playing with **Machine Learning** & small AI side quests
-* 🧱 Developing with **Odoo** and the **Frappe Framework**
+* 🧱 Developing a dev envirorment auto builder little spoiler is called `Forgeon`
 * 🧪 Exploring **SvelteKit** – it’s weirdly fun
 
 ---
@@ -49,13 +47,7 @@
 ## 📜 My Origin Story
 
 I started in mechanics and mechatronics – think gears, wires, and hands-on stuff.
-But somewhere along the way, I fell in love with code. Fast forward:
-
-💥 Switched to Computer Science
-
-🖥️ Graduated
-
-🎓 Got into a Master’s
+But somewhere along the way, I fell in love with code. Fast forward i have switched to Computer Science, graduated and got into a Master’s.
 
 ---
 
