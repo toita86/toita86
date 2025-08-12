@@ -3,7 +3,9 @@
 <p align="center">
   <em>Welcome to my digital playground!</em>
   <br/>
-  <em>❗❗Just made public my latest just for fun project checkout</em> <a href=https://github.com/toita86/smartcli>smart-cli<a/><em>❗❗</em>
+  <em>❗❗Just made public my latest project checkout</em> <a href=https://github.com/toita86/Forgeon>Forgeon<a/><em>❗❗</em>
+  <br/>
+  <em>❗also checkout</em> <a href=https://github.com/toita86/smartcli>smart-cli<a/><em>❗</em>
 </p>
 
 ---
@@ -39,7 +41,7 @@
 ## 🛠️ What I'm Building Right Now
 
 * 🤖 Playing with **Machine Learning** & small AI side quests
-* 🧱 Developing a dev envirorment auto builder little spoiler is called `Forgeon`
+* 🧱 Developing a dev envirorment auto builder little, checkout [Forgeon](https://github.com/toita86/Forgeon)
 * 🧪 Exploring **SvelteKit** – it’s weirdly fun
 
 ---
