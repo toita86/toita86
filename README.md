@@ -16,7 +16,7 @@
 
 🔧 Former **Mechanics & Mechatronics** student (I used to build robots – now I teach them to think)
 
-📚 Soon-to-be **Master's student** at Aalborg University starting **September 2025** – can’t wait!
+📚 Soon-to-be **Master's student** at Aalborg University starting **August 2025** – can’t wait!
 
 🧠 Addicted to algorithms, AI experiments, and saying “just one more bug fix”
 
@@ -41,7 +41,7 @@
 ## 🛠️ What I'm Building Right Now
 
 * 🤖 Playing with **Machine Learning** & small AI side quests
-* 🧱 Developing a dev envirorment auto builder little, checkout [Forgeon](https://github.com/toita86/Forgeon)
+* 🧱 Developing a dev envirorment auto builder, checkout [Forgeon](https://github.com/toita86/Forgeon)
 * 🧪 Exploring **SvelteKit** – it’s weirdly fun
 
 ---
