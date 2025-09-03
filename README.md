@@ -16,7 +16,7 @@
 
 🔧 Former **Mechanics & Mechatronics** student (I used to build robots – now I teach them to think)
 
-📚 Soon-to-be **Master's student** at Aalborg University starting **August 2025** – can’t wait!
+📚 **Master's student** at Aalborg University
 
 🧠 Addicted to algorithms, AI experiments, and saying “just one more bug fix”
 
