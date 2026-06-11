@@ -10,21 +10,21 @@
 
 ## Who Am I?
 
+**Master's student** at Aalborg University
+
 **Computer Science Grad** from UniPG
 
-Former **Mechanics & Mechatronics** student (I used to build robots – now I teach them to think)
-
-📚 **Master's student** at Aalborg University
+Former **Mechanics & Mechatronics** student
 
 ---
 
 ## 🧰 Tech Toolbox
 
 **Languages:**
-`Python` 🐍 | `Java` ☕ | `C` ⚙️ | `C#` 🔷 | `R` 📊
+`Python` | `Java` | `C` | `C#` | `R` | `Haskell`
 
 **Web Dev:**
-`HTML` | `CSS` | `JavaScript` | `Flask` | `Node.js` | `Frappe Framework` | `Odoo`
+`NiceGUI` | `JavaScript` | `Flask` | `Node.js` | `Frappe Framework` | `Odoo`
 
 **Databases:**
 `MySQL` | `MongoDB` | `PostgreSQL`
@@ -37,14 +37,14 @@ Former **Mechanics & Mechatronics** student (I used to build robots – now I te
 ## What I'm Building Right Now
 
 * Playing with **Machine Learning** & small AI side quests
-* Developing a dev envirorment auto builder, checkout [Forgeon](https://github.com/toita86/Forgeon)
+* Developing a dev environment auto builder, checkout [Forgeon](https://github.com/toita86/Forgeon)
 
 ---
 
 ## How I ended up here
 
-I started in mechanics and mechatronics – think gears, wires, and hands-on stuff.
-But somewhere along the way, I fell in love with code. Fast forward i have switched to Computer Science, graduated and got into a Master’s.
+I started in mechanics and mechatronics; think gears, wires, and hands-on stuff.
+But somewhere along the way, I fell in love with code. Fast forward, I have switched to Computer Science, graduated and got into a Master’s.
 
 ---
 
@@ -56,6 +56,6 @@ But somewhere along the way, I fell in love with code. Fast forward i have switc
 ---
 
 <p align="center">
-  <strong>👾 Browse around, check out some repos, and if you see something cool – let’s connect! 👾</strong>  
+  <strong>👾 Browse around, check out some repos, and if you see something cool, let’s connect! 👾</strong>  
 </p>
 
