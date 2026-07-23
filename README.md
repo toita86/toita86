@@ -2,8 +2,6 @@
 
 <p align="center">
   <em>❗❗Just made public my latest project checkout</em> <a href=https://github.com/toita86/Forgeon>Forgeon<a/><em>❗❗</em>
-  <br/>
-  <em>❗also checkout</em> <a href=https://github.com/toita86/smartcli>smart-cli<a/><em>❗</em>
 </p>
 
 ---
@@ -18,10 +16,10 @@ Former **Mechanics & Mechatronics** student
 
 ---
 
-## 🧰 Tech Toolbox
+## My Toolbox
 
 **Languages:**
-`Python` | `Java` | `C` | `C#` | `R` | `Haskell`
+`Python` | `Java` | `C` | `C++` | `R` | `Haskell`
 
 **Web Dev:**
 `NiceGUI` | `JavaScript` | `Flask` | `Node.js` | `Frappe Framework` | `Odoo`
@@ -37,14 +35,14 @@ Former **Mechanics & Mechatronics** student
 ## What I'm Building Right Now
 
 * Playing with **Machine Learning** & small AI side quests
-* Developing a dev environment auto builder, checkout [Forgeon](https://github.com/toita86/Forgeon)
+* Developing a dev environment auto builder; check out [Forgeon](https://github.com/toita86/Forgeon)
 
 ---
 
 ## How I ended up here
 
-I started in mechanics and mechatronics; think gears, wires, and hands-on stuff.
-But somewhere along the way, I fell in love with code. Fast forward, I have switched to Computer Science, graduated and got into a Master’s.
+I started in mechanics and mechatronics, technical drawings, industrial production and material science.
+But somewhere along the way, Computer Science caught me. Fast forward, I have switched to Computer Science, graduated and got into a Master’s.
 
 ---
 
